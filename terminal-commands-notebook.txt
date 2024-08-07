@@ -1,0 +1,10 @@
+git init
+
+pwd
+ls
+ls -la          #list hidden files too
+
+git status
+
+git config --global user.name " "
+git config --global user.name "len-git"
